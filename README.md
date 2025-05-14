@@ -1,12 +1,24 @@
-# Kelas RPLB - Rekayasa Perangkat Lunak dan Bisnis
+# Kelas X RPLB - Rekayasa Perangkat Lunak dan Bisnis
 
-Repositori ini berisi kumpulan materi, tugas, dan proyek siswa kelas RPLB (Rekayasa Perangkat Lunak dan Bisnis) di SMK. Tujuan utama dari pembelajaran ini adalah mengembangkan keterampilan dalam:
+Selamat datang di repositori kelas X RPLB! Kami adalah komunitas kreatif yang fokus pada pengembangan perangkat lunak dan teknologi masa depan. Dalam repositori ini, kamu akan menemukan:
 
-- Pengembangan perangkat lunak (software development)
-- Perancangan UI/UX
-- Analisis kebutuhan sistem
-- Dokumentasi proyek TI
-- Manajemen dan studi bisnis dalam dunia IT
+- **Proyek Kreatif**: Tugas praktek seperti pembuatan website sederhana dan proyek lainnya.
+- **Kerja Tim**: Kolaborasi dalam menyelesaikan tugas dan belajar berkomunikasi dengan baik.
+- **Teknologi Terkini**: Penggunaan perangkat lunak dan platform terbaru seperti Scratch, Construct 3, Visual Studio Code, HTML, CSS, database, serta pengenalan AI dan IoT tingkat dasar.
 
-Teknologi yang digunakan meliputi HTML, CSS, JavaScript, PHP, Laravel, dan lainnya. Proyek-proyek dalam repositori ini dapat dijadikan referensi oleh siswa, guru, dan praktisi pendidikan.
+📅 **Jadwal Pelajaran**:
 
+- **Senin**: PAI, PPKn, BPBK, IPAS
+- **Selasa**: Bahasa Indonesia, Sejarah, Bahasa Inggris
+- **Rabu**: Web Dasar, Database, PPLG
+- **Kamis**: Informatika, PJOK
+- **Jumat**: Matematika, Sunda, IPAS, Senbud
+
+📱 **Ikuti kami di media sosial**:
+
+- [Instagram](https://www.instagram.com)
+- [WhatsApp](https://whatsapp.com)
+- [YouTube](https://youtube.com)
+- [TikTok](https://www.tiktok.com)
+
+© 2025 X RPLB
