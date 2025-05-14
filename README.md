@@ -1,2 +1,2 @@
 # epeelbe12.github.io
-kelas xrplbe
+https://epeelbe12.github.io/website.xrplb.html
